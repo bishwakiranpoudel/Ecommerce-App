@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "845276608505",
+    "firebase_url": "https://batuwa-app-default-rtdb.firebaseio.com",
+    "project_id": "batuwa-app",
+    "storage_bucket": "batuwa-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845276608505:android:5a0183102ad7ac89826f28",
+        "android_client_info": {
+          "package_name": "com.linkbinary.batuwa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845276608505-4mg4qts33ncjd0lguevvv9886c5a31cd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.linkbinary.batuwa",
+            "certificate_hash": "9f28f7e78a8fefdda5d86b681088be4fa7d9432c"
+          }
+        },
+        {
+          "client_id": "845276608505-fk0fm5obh14ghu48ugs3vmhb40grgaro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.linkbinary.batuwa",
+            "certificate_hash": "f0b3138126df40ca42489f3a0ea620a46fe02437"
+          }
+        },
+        {
+          "client_id": "845276608505-d5l7qn3t2csg2i56calso5p8j3m5feuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4P2KqRFI2cS1ylx8OumOv59iiogY6ymM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845276608505-d5l7qn3t2csg2i56calso5p8j3m5feuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845276608505:android:30def684007b8279826f28",
+        "android_client_info": {
+          "package_name": "com.linkbinary.batuwaadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845276608505-9uusbbn5hdf1o45fo0kllp4k2eht2pd2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.linkbinary.batuwaadmin",
+            "certificate_hash": "f0b3138126df40ca42489f3a0ea620a46fe02437"
+          }
+        },
+        {
+          "client_id": "845276608505-d09vfauf3jk3nlg0ooljf1oe1ammsksu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.linkbinary.batuwaadmin",
+            "certificate_hash": "9f28f7e78a8fefdda5d86b681088be4fa7d9432c"
+          }
+        },
+        {
+          "client_id": "845276608505-d5l7qn3t2csg2i56calso5p8j3m5feuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4P2KqRFI2cS1ylx8OumOv59iiogY6ymM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845276608505-d5l7qn3t2csg2i56calso5p8j3m5feuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
